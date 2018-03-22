@@ -52,3 +52,7 @@ p a {
 	background-color: dimgray;
 	text-align: left;
 }
+
+.footer-size {
+	font-size: 14px;
+}
