@@ -23,8 +23,9 @@ html {
 	list-style-type: none;
 }
 
-li a {
+p a {
 	font-size: 18px;
+	color: white;
 }
 
 .header{
@@ -44,4 +45,10 @@ li a {
 #designed{
 	font-weight: bold;
 	font-size: 23px;
+}
+
+#footer-properties{
+	font-size: 11px;
+	background-color: dimgray;
+	text-align: left;
 }
